@@ -1,0 +1,14 @@
+.trial{
+    width: 100%;
+    background-color: blue;
+}
+
+.trialBegin::part(button){
+    background-color: black;
+}
+
+.trialEnd::part(button){
+    background-color:red;
+}
+
+/*# sourceMappingURL=/main.af46ece4.css.map */

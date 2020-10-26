@@ -1,0 +1,18 @@
+{
+  "name": "ui5-webcomponents-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ui5/webcomponents": "1.0.0-rc.9",
+    "main.css": "^2.1.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}

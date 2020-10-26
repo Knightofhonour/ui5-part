@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"main.af46ece4.css","sourceRoot":"../src","sourcesContent":[".trial{\n    width: 100%;\n    background-color: blue;\n}\n\n.trialBegin::part(button){\n    background-color: black;\n}\n\n.trialEnd::part(button){\n    background-color:red;\n}"]}
